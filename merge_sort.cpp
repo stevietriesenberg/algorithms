@@ -1,6 +1,5 @@
-// INSERTION SORT - cycle through array, inserting elements in correct position
-// swap towards left until element is in the correct spot
-// O(n^2)
+// MERGE SORT - split array recursively and use the two-finger algorithm to sort the halves of the array
+// O(nlogn)
 
 #include <iostream>
 #include <vector>
