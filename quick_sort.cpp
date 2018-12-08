@@ -1,7 +1,3 @@
-// INSERTION SORT - cycle through array, inserting elements in correct position
-// swap towards left until element is in the correct spot
-// O(n^2)
-
 #include <iostream>
 #include <vector>
 
